@@ -29,3 +29,8 @@ node_modules
 
 # Webstorm
 .idea/
+
+# Cloud9
+.c9/
+mongod
+data/
